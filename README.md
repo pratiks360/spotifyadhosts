@@ -1,3 +1,3 @@
 # spotifyadhosts
 
-Directly integrate on you system hosts file or link it to pi-hole
+Directly integrate into your system hosts file or link it to Raspberry pi-hole
